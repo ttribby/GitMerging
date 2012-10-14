@@ -22,5 +22,8 @@ public class TheMotivator {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
 	}
+
+	int x;
+	
 }
 
