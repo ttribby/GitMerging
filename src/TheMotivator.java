@@ -10,7 +10,11 @@ public class TheMotivator {
 			System.out.println("Well, what can I say?");
 	}
 	///changing something raaaa
+
 	///chagning somethign again
+
+	///adding 3rd comment
+
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
