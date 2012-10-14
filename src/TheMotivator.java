@@ -9,6 +9,7 @@ public class TheMotivator {
 		else
 			System.out.println("Well, what can I say?");
 	}
+	///changing something raaaa
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
