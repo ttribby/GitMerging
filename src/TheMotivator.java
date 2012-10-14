@@ -14,6 +14,9 @@ public class TheMotivator {
 	///chagning somethign again
 
 	///adding 3rd comment
+	
+	
+	//making more edits
 
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
