@@ -4,5 +4,6 @@ public class Project {
 	//But, progressively, we add more stuff and junk.  Making branches.
 	//Pretend there is a problem in the code and we are fixing it.
 	//Pretend it's all fixed now.  Hot dog.
+	//Merged branches!
 }
 
