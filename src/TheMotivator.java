@@ -17,6 +17,9 @@ public class TheMotivator {
 	
 	
 	//making more edits
+	public void pointlessFunction(){
+		
+	}
 
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
